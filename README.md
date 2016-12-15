@@ -1,1 +1,2 @@
-# Cross-domain-adaptation-on-HEP-HSE-course-work-
+# Application of advertarial neural nets in HEP
+HSE course work
